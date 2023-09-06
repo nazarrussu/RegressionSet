@@ -1,6 +1,6 @@
 # RegressionSet
 
-Завдання з курса:
+Завдання з курсу:
 
 Перейшовши за посиланням https://docs.google.com/spreadsheets/d/18hF7QGvg9cboOPbg33zine3LtYObTo54UfsqMvgeBlo/edit?usp=sharing ви побачите тестовий набір, де у кожного тест-кейсу є назва та пріоритет, інформація про автомат запуску у різних ітераціях.
 
